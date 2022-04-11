@@ -1,0 +1,23 @@
+.col-8{
+    margin-top: 75px;
+}
+.col-4{
+    margin-top: 75px;
+}
+.adminName{
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+}
+.bg{
+    background-color: #D4A017;
+    height: 35vh;
+}
+/* .FaUserAlt{
+    width: px;
+} */
+.col-6{
+    margin-right: 200px;
+}
+.FaUserAlt{
+    margin-left: 100px;
+}
